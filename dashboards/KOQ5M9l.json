@@ -1,0 +1,36 @@
+{
+  "pages": [
+    {
+      "id": "xTuj3RU",
+      "grid": {
+        "tiles": []
+      },
+      "showTitle": false
+    }
+  ],
+  "owner": "may.phang@dataiku.com",
+  "listed": true,
+  "name": "other types of data\u0027s default dashboard",
+  "showGrid": true,
+  "versionTag": {
+    "versionNumber": 0,
+    "lastModifiedBy": {
+      "login": "may.phang@dataiku.com"
+    },
+    "lastModifiedOn": 1697089681859,
+    "extendedProperties": {}
+  },
+  "creationTag": {
+    "versionNumber": 0,
+    "lastModifiedBy": {
+      "login": "may.phang@dataiku.com"
+    },
+    "lastModifiedOn": 1697089681859,
+    "extendedProperties": {}
+  },
+  "tags": [],
+  "customFields": {},
+  "checklists": {
+    "checklists": []
+  }
+}
