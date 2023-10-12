@@ -40,11 +40,11 @@
   },
   "labels": [],
   "versionTag": {
-    "versionNumber": 1,
+    "versionNumber": 2,
     "lastModifiedBy": {
       "login": "may.phang@dataiku.com"
     },
-    "lastModifiedOn": 1697090029312,
+    "lastModifiedOn": 1697151424313,
     "extendedProperties": {}
   },
   "creationTag": {
